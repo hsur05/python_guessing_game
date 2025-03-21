@@ -87,7 +87,7 @@ This project is available for open use.
 
 ## Author
 
-[Your Name] - Initial work
+Roy Hsu
 
 ## Acknowledgments
 
