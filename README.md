@@ -1,6 +1,6 @@
 # Python Word Guessing Game
 
-Welcome to my hangman game! a simple command-line word guessing game built with Python. Players have 5 attempts to guess a randomly selected word by suggesting letters one at a time.
+Welcome to my hangman game!- a simple command-line word guessing game built with Python. Players have 5 attempts to guess a randomly selected word by suggesting letters one at a time.
 
 ## How to Play
 
