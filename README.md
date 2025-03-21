@@ -47,7 +47,7 @@ python project_final.py
 
 ## Word List
 
-The game includes the following words:
+The game includes the following words: (You can add as many as you like!)
 - test
 - obfuscate
 - funny
