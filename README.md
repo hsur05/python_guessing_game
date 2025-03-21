@@ -91,4 +91,4 @@ Roy Hsu
 
 ## Acknowledgments
 
-- Inspired by the classic Hangman game
+Inspired by the classic Hangman game
